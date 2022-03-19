@@ -36,7 +36,11 @@ Just copy and paste the content on your ``index.html`` file.
 # 3 - Using the model
 
 Replace your script, which is inside the ``script`` tag at the ``index.html``, to this:
+```html
+<script src="script.js"></script>
+```
 
+And replace the ``script.js`` file to this:
 ```javascript
      // Classifier Variable
       let classifier;
