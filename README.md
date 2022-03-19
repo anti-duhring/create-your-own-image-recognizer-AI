@@ -12,9 +12,9 @@ This tool is really simple and intuitive, you can easily create the model in les
 
 ![Image-Model-Teachable-Machines](https://user-images.githubusercontent.com/99638905/159101206-6f305c5c-e937-4635-a66c-fb7492bee222.png)
 
-1. Here you will create your own class, which means every "object" (or, in this case, every pokemon) that the AI will can recognize.
+1. Here you will create your own class, which means every "object" (or, in this case, every pokemon) that the AI will can recognize. PS: The more model images do you use, more accurate will be the AI.
 
-2. After you create all your classes make sure to trane the model. This process is when the AI will learn to regonize every class (pokemons).
+2. After you create all your classes make sure to train the model. This process is when the AI will learn to regonize every class (pokemons).
 
 3. After all of these process, its time to export your model.
 
