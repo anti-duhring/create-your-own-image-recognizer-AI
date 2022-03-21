@@ -35,7 +35,7 @@ Just copy and paste the content on your ``index.html`` file.
 
 # 3 - Using the model
 
-Replace your script, which is inside the ``script`` tag at the ``index.html``, to this:
+Replace your script, which is inside the ``index.html``, to this script tag:
 ```html
 <script src="script.js"></script>
 ```
